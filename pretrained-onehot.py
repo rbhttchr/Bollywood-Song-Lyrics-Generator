@@ -47,7 +47,6 @@ class pretrained():
             window = window[1:] + next_char
 
         print(original + generated)
-        print("As you can see there is ")
 
 if __name__ == '__main__':
     start = pretrained()

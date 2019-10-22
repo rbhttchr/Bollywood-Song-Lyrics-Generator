@@ -6,6 +6,7 @@ from keras.layers import LSTM
 import numpy as np
 import pandas as pd
 
+
 class OneHotWayEncoding():
 
     def dataimport(self):
